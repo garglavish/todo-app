@@ -1,0 +1,37 @@
+
+*{
+	border-spacing: 20px;
+	background-position: center;
+}
+
+.I1{
+background-color: lightgray;
+text-align: center;
+padding: 30px;
+}
+.I2{
+	background-color: lightblue;
+	text-align: center;
+
+
+}
+.del
+{
+	color: white;
+	padding: 6px;
+	margin: 80%;
+	padding: 6px;
+}
+.name
+{
+
+	margin: 10%;
+
+	
+
+}
+.foot
+{
+	background-color: lightgray;
+	text-align: center;
+}
